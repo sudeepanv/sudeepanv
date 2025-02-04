@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**Sudeepan here!**
-
----
-
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepanv&show_icons=true&theme=radical)
 
@@ -15,13 +11,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@vsudeepan-blue?logo=twitter&logoColor=white)](https://x.com/vsudeepan?t=5LW__Mb9uc9Rj-a2LEa5kQ&s=08)
 [![Medium](https://img.shields.io/badge/Medium-@vsudeepan-blue?logo=medium&logoColor=white)](https://medium.com/@vsudeepan)
 
----
-
-### 🚀 Languages and Tools:
-- Java
-- Kotlin
-- Jetpack Compose
-- C
-- C++
-- Android Studio
-- Git & GitHub
